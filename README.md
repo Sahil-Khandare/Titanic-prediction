@@ -1,5 +1,4 @@
 ## Titanic Survival Prediction using Machine Learning
-
 This project predicts whether a passenger survived the Titanic disaster using machine learning.
 
 ## Features
