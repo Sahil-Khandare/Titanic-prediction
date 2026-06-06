@@ -4,7 +4,7 @@ Overview
 This project predicts whether a passenger survived the Titanic disaster using machine learning.
 
 Features
-Data preprocessing
+--Data preprocessing
 Model training (Scikit-learn)
 Prediction system
 Files
@@ -13,4 +13,3 @@ titanicK_model.pkl → trained model
 train.csv / test.csv → dataset
 Usage
 
-Run the notebook to train and test the model.
