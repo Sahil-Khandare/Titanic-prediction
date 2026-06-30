@@ -10,4 +10,4 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 - titanic_kaggle.ipynb → main notebook
 - titanicK_model.pkl → trained model
 - train.csv / test.csv → dataset
-- Usage
+
